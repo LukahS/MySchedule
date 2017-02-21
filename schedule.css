@@ -1,0 +1,22 @@
+/* Color Palette adapted from http://http://www.colourlovers.com/palette/55357/6_inch_heels */
+table {
+	text-align: left;
+}
+tr {
+	width:50%;
+}
+h1, th{
+	text-decoration: underline;
+	font-weight: bold;
+}
+tr.odd{
+	background-color: #1A2B2B;
+	color: #800909;
+}
+tr.even{
+	background-color: #800909;
+}
+tr:hover{
+	background-color: #332222;
+	color: #661111;
+}
